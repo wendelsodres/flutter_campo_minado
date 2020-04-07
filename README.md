@@ -7,7 +7,7 @@ A new Flutter project.
 ```bash
 
 $ git clone https://github.com/wendelsodres/flutter_campo_minado.git
-$ cd perus_comercio
+$ cd flutter_campo_minado
 $ flutter run
 ```
 # Screenshots
